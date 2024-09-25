@@ -5,4 +5,5 @@
 ### DOM (document object model)
 2. Index.html and DOM.js 
 - understanding dom and getElementById Method
-- getElementByClassNames Method
+- getElementByClassName Method
+- getElementsByTagName Method
