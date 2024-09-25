@@ -7,3 +7,11 @@
 - understanding dom and getElementById Method
 - getElementByClassName Method
 - getElementsByTagName Method
+- adding and deleting fruits using eventListener
+### Separate files added for each language
+1. JavaScript
+- it contains only the js files
+2. HTML
+- it contains only the HTML files
+3. CSS
+- it has css files
