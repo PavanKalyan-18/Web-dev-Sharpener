@@ -15,3 +15,7 @@
 - it contains only the HTML files
 3. CSS
 - it has css files
+### Local Storage
+- Storing data in local storage
+- correct way to store data in local storage
+- store objects as strings in local storage by using JSON.stringify Method
